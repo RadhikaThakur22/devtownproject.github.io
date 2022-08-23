@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo-500x313.png">
+    <link rel="stylesheet" href="style.css">
+    <title>Facebook-Log in or Sign up</title>
+
+</head>
+
+<body>
+    <div id="container">
+        <div id="recent-logins">
+            <img id="facebook" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" alt="facebook logo">
+            <div id="title">Recent logins</div>
+            <div id="subtitle">Click your picture or add an account</div>
+            <div id="cards">
+                <div id="card-1">
+                    <div id="cancel">x</div>
+                    <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80"
+                        alt="profile picture" id="card-1-img">
+                    <div class="username">Robert</div>
+                </div>
+                <div id="card-2">
+                    <img src="https://cdn3.vectorstock.com/i/1000x1000/00/07/user-profile-with-plus-grey-icon-add-new-friend-vector-32550007.jpg"
+                        alt="Add account" id="card-2-img">
+                    <div id="add-account" class="username">Add account</div>
+                </div>
+            </div>
+        </div>
+        <div id="login">
+            <input type="email" placeholder="Email or Phone Number">
+            <input type="password" placeholder="Password">
+            <input type="button" value="Log In" id="login-button">
+            <a href="#">Forgot Password</a>
+            <hr style="width:95% ;">
+            <input type="button" value="Create new account" id="Create-new-account">
+            <p><strong>Create a page</strong> for a celebrity, brand or business</p>
+        </div>
+    </div>
+    <footer>
+        <div>
+            English (UK)
+            हिन्दी
+            ਪੰਜਾਬੀ
+            नेपाली
+            اردو
+            ગુજરાતી
+            বাংলা
+            தமிழ்
+            తెలుగు
+            മലയാളം
+            ಕನ್ನಡ
+            <hr style="width: 100%;">
+            Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceFacebook PayOculusPortalInstagramBulletinLocal
+            <br>
+            FundraisersServicesVoting Information CentreGroupsAboutCreate adCreate
+            PageDevelopersCareersPrivacyCookiesAdChoicesTermsHelpContact uploading and non-usersSettingsActivity log
+            <br><br>
+            Meta © 2022
+
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
